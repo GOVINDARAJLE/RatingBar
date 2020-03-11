@@ -4,7 +4,7 @@ _Android RatingBar can be used to get the rating from the user. The Rating retur
 Android RatingBar displays the rating in stars. Android RatingBar is the subclass of AbsSeekBar class.
 The getRating() method of android RatingBar class returns the rating number._
 _Let's see the simple example of rating bar in android._
-`<
+
 <Button  
         android:layout_width="wrap_content"  
         android:layout_height="wrap_content"  
@@ -24,4 +24,4 @@ _Let's see the simple example of rating bar in android._
         android:layout_marginTop="60dp"  
         app:layout_constraintStart_toStartOf="parent"  
         app:layout_constraintTop_toTopOf="parent" />  
-  >`
+  
