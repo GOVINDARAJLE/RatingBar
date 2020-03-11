@@ -32,4 +32,4 @@ _Performing action on Button Click_
         String rating=String.valueOf(ratingbar.getRating());  
         Toast.makeText(getApplicationContext(), rating, Toast.LENGTH_LONG).show(); 
 ```
-![Design]()
+![Design](rating.jpg)
